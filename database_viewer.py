@@ -71,7 +71,7 @@ class DatabaseViewer(tk.Tk):
         menubar.add_cascade(label="Help", menu=help_menu)
     
     def show_about(self):
-        messagebox.showinfo("About", "Publication Database Viewer\nVersion 1.0\nBy Your Name")
+        messagebox.showinfo("About", "Publication Database Viewer\nVersion 1.0\nBy Jakub Hajduga")
     
     def create_widgets(self):
         # Filter frame using ttk for consistent styling
