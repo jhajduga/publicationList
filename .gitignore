@@ -1,5 +1,3 @@
-/baza_czasopism.xlsx
-/combined_app.log
-/converter_app.log
-/dane_filtered.pkl
-/db_viewer.log
+/*.xlsx
+/*.log
+/*.pkl
