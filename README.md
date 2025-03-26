@@ -118,11 +118,11 @@ conda activate publication-db
 
 ### Converter App Usage
 
-1. **Run the Converter App**:  
+1. **Run the Converter App A.K.A. database_maker.py**:  
    Provide a file path as a command-line argument or leave blank to download the default file.
 
     ```bash
-    python converter_app.py [path/to/your/file.xlsx]
+    python database_maker.py [path/to/your/file.xlsx]
     ```
 
 2. **Follow the Prompts**:  
@@ -139,7 +139,7 @@ conda activate publication-db
 2. **Run the Viewer**:
 
     ```bash
-    python publication_viewer.py
+    python database_viewer.py
     ```
 
 3. **Interact with the GUI**:  
